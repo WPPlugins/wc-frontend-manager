@@ -1,0 +1,16 @@
+.page_collapsible, .collapse-close{ 
+	background: #cccccc;
+}
+
+.page_collapsible, .collapse-close{ 
+	color: #000000;
+}
+
+.collapse-open{ 
+	background: #000000;
+}
+
+.collapse-open{ 
+	color: #ffffff;
+}
+

@@ -1,0 +1,67 @@
+#_wc_booking_duration_type {
+	width: 25%;
+}
+
+#_wc_booking_duration {
+	width: 10%;
+	margin-left: 10px;
+}
+
+#_wc_booking_duration_unit, #_wc_booking_cancel_limit_unit, #_wc_booking_min_date_unit, #_wc_booking_max_date_unit {
+	width: 22%;
+	margin-left: 10px;
+}
+
+#_wc_booking_cancel_limit, #_wc_booking_min_date, #_wc_booking_max_date, #_wc_booking_buffer_period { width: 10%; }
+
+#_wc_booking_first_block_time { width: 20%; }
+
+p.description {
+	display: inline-block;
+	width: 30%;
+}
+
+@media only screen and (max-width: 768px) {
+	#_wc_booking_duration_unit {
+		width: 20%;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	#_wc_booking_duration_type {
+		width: 45%;
+	}
+	#_wc_booking_duration {
+	  width: 20%;
+	}
+	
+	#_wc_booking_duration_unit, #_wc_booking_cancel_limit_unit {
+		width: 25%;
+	}
+	
+	#_wc_booking_min_date_unit, #_wc_booking_max_date_unit {
+		width: 35%;
+	}
+	
+	#_wc_booking_cancel_limit, #_wc_booking_min_date, #_wc_booking_max_date, #_wc_booking_buffer_period { width: 20%; }
+	
+	p.description {
+		width: 50%;
+	}
+	
+	#_wc_booking_first_block_time { width: 40%; }
+}
+
+@media only screen and (max-width: 320px) {
+	#_wc_booking_duration_type {
+		width: 60%;
+	}
+	
+	#_wc_booking_duration_unit, #_wc_booking_cancel_limit_unit {
+		width: 60%;
+	}
+	
+	p.description {
+		width: 75%;
+	}
+}

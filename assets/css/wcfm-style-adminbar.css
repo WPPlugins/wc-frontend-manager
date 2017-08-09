@@ -1,0 +1,33 @@
+.wcfm-admin-menu-head {
+	background: #f1f1f1;
+	padding: 0 2px 0 2px !important;
+	height: 32px !important;
+}
+
+.wcfm-admin-menu span {
+	font-size: 15px;
+	padding: 0 4px 0 2px !important;
+}
+
+.wcfm-admin-menu .wcicon-storefront { color: #ffba00; }
+.wcfm-admin-menu .wcicon-simple { color: #008C00; }
+.wcfm-admin-menu .wcicon-coupon { color: #FF7400; }
+.wcfm-admin-menu .wcicon-truck-2 { color: #C79810; }
+.wcfm-admin-menu .wcicon-booking { color: #73880A; }
+.wcfm-admin-menu .wcicon-reports { color: #FF0084; }
+.wcfm-admin-menu .wcicon-gear { color: #a00; }
+
+.wcfm-admin-menu .wcicon-storefront:hover, .wcfm-admin-menu .wcicon-simple:hover, .wcfm-admin-menu .wcicon-coupon:hover, .wcfm-admin-menu .wcicon-truck-2:hover, .wcfm-admin-menu .wcicon-reports:hover, .wcfm-admin-menu .wcicon-gear:hover {
+	color: #2ea2cc;
+}
+
+@media only screen and (max-width: 782px) {
+	#wpadminbar #wp-admin-bar-wcfm-menu {
+    display: block;
+    position: static;
+  }
+  
+  .wcfm-admin-menu-head { 
+  	padding: 6px 2px 6px 2px !important;
+  }
+}

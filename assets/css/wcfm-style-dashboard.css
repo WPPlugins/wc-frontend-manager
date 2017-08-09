@@ -1,0 +1,124 @@
+.wcfm-collapse .wcfm-container { 
+  border-radius: 0px 0px 3px 3px;
+}
+
+.wcfm_dashboard_wc_status {
+	width: 100%;
+	display: table;
+}
+
+.wcfm_dashboard_wc_status_data, .wcfm_dashboard_wc_status_graph {
+	display: table-cell;
+	width: 50%;
+	padding: 5px;
+}
+
+.page_collapsible {
+	text-align: center;
+}
+
+.wcfm_dashboard_wc_reports {
+	margin-bottom: 10px;
+}
+
+#wcfm_dashboard_wc_status_expander ul { list-style: none; }
+
+#wcfm_dashboard_wc_status_expander ul li {
+	padding: 8px 0px 8px 0px;
+	border-bottom: 1px solid #cccccc;
+}
+
+.wcfm_dashboard_wc_status_data .fa {
+	font-size: 28px;
+	vertical-align: top;
+}
+
+.wcfm_dashboard_wc_status_data .fa-dollar { color: #555; margin-left: 5px; margin-right: 5px; }
+.wcfm_dashboard_wc_status_data .fa-money { color: #008C00; }
+.wcfm_dashboard_wc_status_data .fa-cubes { color: #D15600; }
+.wcfm_dashboard_wc_status_data .fa-cube { color: #4096EE; }
+.wcfm_dashboard_wc_status_data .fa-cart-plus { color: #73880A; }
+.wcfm_dashboard_wc_status_data .fa-life-ring { color: #C79810; }
+.wcfm_dashboard_wc_status_data .fa-minus-circle { color: #717171; }
+.wcfm_dashboard_wc_status_data .fa-sort-amount-desc { color: #FF7400; }
+.wcfm_dashboard_wc_status_data .fa-times-circle-o { color: #CC0000; }
+.wcfm_dashboard_wc_status_data .fa-truck { color: #D01F3C; }
+
+.wcfm_dashboard_wc_status_data a { 
+  margin-left: 10px;
+  color: #717171 !important;
+  display: inline-block;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+.wcfm_dashboard_wc_status_data strong, .wcfm_dashboard_wc_status_data strong .woocommerce-Price-amount {
+	font-weight: 600;
+	font-size: 18px;
+	color: #21759b;
+	display: inline-block;
+}
+
+.wcfm_dashboard_wc_status_data .wcfm-container { padding-bottom: 10px; }
+
+.wcfm-content #poststuff, .wcfm-content #poststuff .postbox { min-width: 250px; }
+.wcfm-content #poststuff .postbox, .wcfm-content .inside { position: relative; }
+
+.wcfm-content .woocommerce-reports-wide .postbox .chart-placeholder, .woocommerce-reports-wrap .postbox .chart-placeholder, #sales-piechart {
+	width: 100%;
+	height: 260px;
+	max-height: 260px;
+	padding: 5px;
+	overflow: hidden;
+	position: relative;
+}
+
+.page_collapsible .fa { 
+  float:left; 
+  color: #00897b;
+  font-size: 25px;
+}
+
+#tiptip_content,.chart-tooltip{color:#fff;font-size:.8em;max-width:150px;background:#333;text-align:center;border-radius:3px;padding:.618em 1em;box-shadow:0 1px 3px rgba(0,0,0,.2)}
+#tiptip_content code,.chart-tooltip code{padding:1px;background:#888}
+.chart-tooltip{position:absolute;display:none;line-height:1}
+
+@media only screen and (max-width: 768px) {
+	
+	.wcfm_dashboard_wc_status_data, .wcfm_dashboard_wc_status_graph {
+		width: 100%;
+		display: block;
+		padding: 5px 0px 5px 0px;
+	}
+	
+	#wcfm_dashboard_wc_status_expander ul li {
+		padding: 10px 0px 10px 0px;
+	}
+	
+	.wcfm_dashboard_wc_status_data .fa {
+		font-size: 22px;
+		vertical-align: top;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	
+	.wcfm_dashboard_wc_status_data, .wcfm_dashboard_wc_status_graph {
+		width: 100%;
+		display: block;
+		padding: 5px 0px 5px 0px;
+	}
+	
+	#wcfm_dashboard_wc_status_expander ul li {
+		padding: 10px 0px 10px 0px;
+	}
+	
+	.wcfm_dashboard_wc_status_data .fa {
+		font-size: 20px;
+		vertical-align: top;
+	}
+	
+	.wcfm_dashboard_wc_status_data strong {
+		font-size: 15px;
+	}
+}

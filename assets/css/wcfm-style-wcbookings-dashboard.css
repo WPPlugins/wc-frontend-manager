@@ -1,0 +1,76 @@
+.wcfm_bookings_gloabl_settings {
+	float: right;
+	margin-left: 10px;
+	margin-top: -2px;
+	font-size: 25px;
+	color: #00897b;
+	text-decoration: none;
+	border: 0px;
+	display: table-cell;
+	cursor: pointer;
+}
+.wcfm_bookings_gloabl_settings:hover { color: #000000; }
+
+.wcfm-container-box {
+	display: table;
+	width: 100%;
+}
+
+.wcfm-container-box .wcfm-container {
+	display: inline-block;
+	width: 39%; 
+  margin: 5%;
+	height: 200px;
+	text-align: center;
+	
+}
+
+.wcfm-container-box .wcfm-container-single {
+	display: block;
+	margin: auto;
+}
+
+.wcfm-container-box .wcfm-container .wcfm-content {
+	margin-top: 8%;
+}
+
+.wcfm-container-box .wcfm-container .booking_dashboard_section_icon {
+	font-size: 50px; 
+	color: #00897b;
+}
+
+.wcfm-container-box .wcfm-container .booking_dashboard_section_icon:hover {
+	color: #000000;
+}
+
+.wcfm-container-box .wcfm-container .booking_dashboard_section_label h2 {
+	display: block;
+	float: none;
+	color: #555;
+	font-size: 30px; 
+}
+
+.wcfm-container-box .wcfm-container .booking_dashboard_section_label h2 {
+	
+}
+
+@media only screen and (max-width: 780px) {
+  .wcfm-container-box .wcfm-container .wcfm-content {
+		margin-top: 14%;
+	}
+	
+	.wcfm-container-box .wcfm-container .booking_dashboard_section_icon {
+		font-size: 40px; 
+	}
+	
+	.wcfm-container-box .wcfm-container .booking_dashboard_section_label h2 {
+		font-size: 20px; 
+	}
+}
+
+@media only screen and (max-width: 640px) {
+  .wcfm-container-box .wcfm-container { 
+    width: 80%; 
+    margin: 10%;
+  }
+}

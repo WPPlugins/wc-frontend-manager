@@ -1,0 +1,36 @@
+.wcfm-collapse .wcfm-container { 
+  border-radius: 0px 0px 3px 3px;
+}
+
+#wcfm_knowledgebase_form h3 {
+	font-size: 1.5em;
+	clear: both;
+	font-weight: 500;
+	margin: 0 0 .5407911001em;
+	color: #555555;
+}
+
+#wcfm_knowledgebase_listing_expander { 
+  min-height: 400px;
+  padding: 10px;
+}
+
+p.wcfm_title {
+	font-size: 15px;
+	margin-bottom: 5px !important;
+	font-style: normal;
+	width: 35%;
+	display: inline-block;
+}
+
+.wcmp_knowledgebase {
+	padding: 10px;
+}
+
+.wcmp_knowledgebase h4 {
+	font-size: 20px;
+	font-weight: 400;
+	margin-bottom: 10px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid #555;
+}
