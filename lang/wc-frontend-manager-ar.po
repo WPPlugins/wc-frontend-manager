@@ -27,45 +27,45 @@ msgstr ""
 #: controllers/wcfm-controller-reports-out-of-stock.php:110
 #: core/class-wcfm-frontend.php:123
 msgid "Edit"
-msgstr ""
+msgstr "تعديل"
 
 #: controllers/wcfm-controller-knowledgebase.php:29
 msgid "Knowledgebase saved successfully"
-msgstr ""
+msgstr "تم حفض بنك المعلومات بنجاح"
 
 #: controllers/wcfm-controller-message-sent.php:68
 msgid "Message sent successfully"
-msgstr ""
+msgstr "تم ارسال الرسالة بنجاح"
 
 #: controllers/wcfm-controller-messages.php:114
 #: controllers/wcfm-controller-messages.php:137
 #: views/wcfm-view-wcmarketplace-settings.php:64
 #: views/wcfm-view-wcvendors-settings.php:90
 msgid "Store"
-msgstr ""
+msgstr "المتجر"
 
 #: controllers/wcfm-controller-messages.php:122
 #: controllers/wcfm-controller-messages.php:128
 #: controllers/wcfm-controller-messages.php:145
 #: controllers/wcfm-controller-messages.php:151
 msgid "You"
-msgstr ""
+msgstr "انت"
 
 #: controllers/wcfm-controller-messages.php:135
 msgid "Vendors"
-msgstr ""
+msgstr "البائعين"
 
 #: controllers/wcfm-controller-messages.php:158
 msgid "NOTICE"
-msgstr ""
+msgstr "ملاحظة"
 
 #: controllers/wcfm-controller-messages.php:160
 msgid "MESSAGE"
-msgstr ""
+msgstr "رسالة"
 
 #: controllers/wcfm-controller-messages.php:169
 msgid "Mark Read"
-msgstr ""
+msgstr "تعليم كامقروء"
 
 #: controllers/wcfm-controller-orders.php:87
 #: controllers/wcfm-controller-orders.php:94
@@ -78,14 +78,14 @@ msgstr ""
 #, php-format
 msgctxt "full name"
 msgid "%1$s %2$s"
-msgstr ""
+msgstr "الاسم الكامل"
 
 #: controllers/wcfm-controller-orders.php:98
 #: controllers/wcfm-controller-wcmarketplace-orders.php:163
 #: controllers/wcfm-controller-wcpvendors-orders.php:154
 #: controllers/wcfm-controller-wcvendors-orders.php:165
 msgid "Guest"
-msgstr ""
+msgstr "ضيف"
 
 #: controllers/wcfm-controller-orders.php:117
 #: controllers/wcfm-controller-wcmarketplace-orders.php:188
@@ -93,13 +93,13 @@ msgstr ""
 #: controllers/wcfm-controller-wcvendors-orders.php:187
 #, php-format
 msgid "%d item"
-msgid_plural "%d items"
+msgid_plural "%d من المنتجات"
 msgstr[0] ""
 msgstr[1] ""
 
 #: controllers/wcfm-controller-orders.php:123
 msgid "Via"
-msgstr ""
+msgstr "بواسطة"
 
 #: controllers/wcfm-controller-orders.php:131
 msgid "Y/m/d g:i:s A"
@@ -114,7 +114,7 @@ msgstr ""
 #: controllers/wcfm-controller-wcpvendors-orders.php:240
 #: controllers/wcfm-controller-wcvendors-orders.php:218
 msgid "View Details"
-msgstr ""
+msgstr "انضر التفاصيل"
 
 #: controllers/wcfm-controller-orders.php:147
 #: controllers/wcfm-controller-orders.php:150
@@ -129,59 +129,59 @@ msgstr ""
 #: views/wcfm-view-orders-details.php:106 views/wcfm-view-settings.php:209
 #: views/wcfm-view-settings.php:213
 msgid "PDF Invoice"
-msgstr ""
+msgstr "فاتورة بي دي اف"
 
 #: controllers/wcfm-controller-products.php:114
 #: views/wcfm-view-settings.php:127
 msgid "Grouped"
-msgstr ""
+msgstr "مجمعه"
 
 #: controllers/wcfm-controller-products.php:116
 msgid "External/Affiliate"
-msgstr ""
+msgstr "روابط خارجية / بيع في العمولة"
 
 #: controllers/wcfm-controller-products.php:120
 #: views/wcfm-view-settings.php:129
 msgid "Virtual"
-msgstr ""
+msgstr "افتراضي"
 
 #: controllers/wcfm-controller-products.php:122
 #: views/wcfm-view-settings.php:130
 msgid "Downloadable"
-msgstr ""
+msgstr "قابل للتنزيل"
 
 #: controllers/wcfm-controller-products.php:130
 msgid "Subscription"
-msgstr ""
+msgstr "اشتراكات"
 
 #: controllers/wcfm-controller-products.php:132
 msgid "Variable Subscription"
-msgstr ""
+msgstr "اشتراكات متغيرة "
 
 #: controllers/wcfm-controller-products.php:134
 #: views/wcfm-view-settings.php:132
 msgid "Job Package"
-msgstr ""
+msgstr "حزم العمل"
 
 #: controllers/wcfm-controller-products.php:136
 #: views/wcfm-view-settings.php:133
 msgid "Resume Package"
-msgstr ""
+msgstr "حزم المعرفة"
 
 #: controllers/wcfm-controller-products.php:138
 #: views/wcfm-view-settings.php:134
 msgid "Auction"
-msgstr ""
+msgstr "مزادات"
 
 #: controllers/wcfm-controller-products.php:140
 #: core/class-wcfm-thirdparty-support.php:238
 msgid "Rental"
-msgstr ""
+msgstr "تأجير"
 
 #: controllers/wcfm-controller-products.php:154
 #: controllers/wcfm-controller-reports-out-of-stock.php:105
 msgid "View"
-msgstr ""
+msgstr "معاينة"
 
 #: controllers/wcfm-controller-products.php:157
 #: controllers/wcfm-controller-products.php:160
@@ -189,208 +189,210 @@ msgstr ""
 #: controllers/wcfm-controller-reports-out-of-stock.php:111
 #: core/class-wcfm-frontend.php:127
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 #: controllers/wcfm-controller-profile.php:90
 msgid "Profile saved successfully"
-msgstr ""
+msgstr "تم حفض الملف الشخصي"
 
 #: controllers/wcfm-controller-settings.php:79
 #: controllers/wcfm-controller-wcmarketplace-settings.php:60
 #: controllers/wcfm-controller-wcpvendors-settings.php:50
 #: controllers/wcfm-controller-wcvendors-settings.php:55
 msgid "Settings saved successfully"
-msgstr ""
+msgstr "تم حفض الاعدادات"
 
 #: controllers/wcfm-controller-wcmarketplace-orders.php:194
 msgid "UNPAID"
-msgstr ""
+msgstr "غير مدفوع"
 
 #: controllers/wcfm-controller-wcmarketplace-orders.php:198
 #: controllers/wcfm-controller-wcvendors-orders.php:197
 msgid "PAID"
-msgstr ""
+msgstr "مدفوع"
 
 #: controllers/wcfm-controller-wcmarketplace-orders.php:202
 #: controllers/wcfm-controller-wcvendors-orders.php:201
 msgid "REVERSED"
-msgstr ""
+msgstr "محجوز"
 
 #: controllers/wcfm-controller-wcpvendors-settings.php:52
 msgid "Settings failed to save"
-msgstr ""
+msgstr "فشل في حفض الاعدادات"
 
 #: controllers/wcfm-controller-wcvendors-orders.php:193
 msgid "DUE"
-msgstr ""
+msgstr "الى"
 
 #: core/class-wcfm-admin.php:45 core/class-wcfm-admin.php:84
 #: core/class-wcfm-admin.php:85 core/class-wcfm-admin.php:86
 msgid "WCFM View"
-msgstr ""
+msgstr "مشاهدة WCFM"
 
 #: core/class-wcfm-admin.php:103 core/class-wcfm-admin.php:113
 #: core/class-wcfm-admin.php:115 core/class-wcfm-admin.php:117
 #: core/class-wcfm-frontend.php:100 core/class-wcfm-frontend.php:100
 #: core/class-wcfm-wcvendors.php:170 core/class-wcfm-wcvendors.php:170
 msgid "WCFM Home"
-msgstr ""
+msgstr "WCFM الرئيسية"
 
 #: core/class-wcfm-admin.php:160
 msgid "This page should contain \"[wc_frontend_manager]\" short code"
-msgstr ""
+msgstr "هذه الصفحة قد تحتوي على اختصار \"[wc_frontend_manager]\" ."
 
 #: core/class-wcfm-customfield-support.php:37
 msgid "Product Custom Field"
-msgstr ""
+msgstr "حقل مخصص للمنتج"
 
 #: core/class-wcfm-customfield-support.php:43
 msgid "Custom Fields"
-msgstr ""
+msgstr "حقل مخصص"
 
 #: core/class-wcfm-customfield-support.php:43
 msgid ""
 "You can even integrate any Third Party plugin using Custom Fields, but you "
 "should use the same fields name as used by Third Party plugins."
 msgstr ""
+"يمكنك دمج أي مكون إضافي تابع لجهة ثالثة باستخدام الحقول المخصصة ، لكن"
+"يجب أن تستخدم نفس اسم الحقول كما هو مستخدم من قبل ملحقات الطرف الثالث."
 
 #: core/class-wcfm-customfield-support.php:45
 msgid "Block Name"
-msgstr ""
+msgstr "حضر الاسماء"
 
 #: core/class-wcfm-customfield-support.php:46
 msgid "Fields as Group?"
-msgstr ""
+msgstr "الحقل كامجموعه"
 
 #: core/class-wcfm-customfield-support.php:47
 msgid "Group name"
-msgstr ""
+msgstr "اسم المجموعة"
 
 #: core/class-wcfm-customfield-support.php:48
 msgid "Fields"
-msgstr ""
+msgstr "حقول"
 
 #: core/class-wcfm-customfield-support.php:49
 msgid "Field Type"
-msgstr ""
+msgstr "انواع الحقول"
 
 #: core/class-wcfm-customfield-support.php:50
 msgid "Label"
-msgstr ""
+msgstr "وسم"
 
 #: core/class-wcfm-customfield-support.php:52
 msgid "Options"
-msgstr ""
+msgstr "خيارات"
 
 #: core/class-wcfm-customfield-support.php:52
 msgid "Insert option values | separated"
-msgstr ""
+msgstr "ادخال قيم الخيارات مع | كافاصل"
 
 #: core/class-wcfm-library.php:417
 msgid "Processing..."
-msgstr ""
+msgstr "قيد العمل ...."
 
 #: core/class-wcfm-library.php:417
 msgid "Search:"
-msgstr ""
+msgstr "بحث:"
 
 #: core/class-wcfm-library.php:417
 msgid "Show _MENU_ entries"
-msgstr ""
+msgstr "عرض ادخالات _MENU_"
 
 #: core/class-wcfm-library.php:417
 msgid "Showing _START_ to _END_ of _TOTAL_ entries"
-msgstr ""
+msgstr "مشاهدة _START_ الى _END_ من _TOTAL_ ادخالات "
 
 #: core/class-wcfm-library.php:417
 msgid "Showing 0 to 0 of 0 entries"
-msgstr ""
+msgstr "مشاهدة 0 الى 0 من 0 ادخال"
 
 #: core/class-wcfm-library.php:417
 msgid "(filtered _MAX_ entries of total)"
-msgstr ""
+msgstr "فرز _MAX_ ادخال من المجموع"
 
 #: core/class-wcfm-library.php:417
 msgid "Loading..."
-msgstr ""
+msgstr "تحميل ..."
 
 #: core/class-wcfm-library.php:417
 msgid "No matching records found"
-msgstr ""
+msgstr "لا يوجد ادخالات مطابقة"
 
 #: core/class-wcfm-library.php:417
 msgid "No data in the table"
-msgstr ""
+msgstr "لا يوجد معلومات في المدخلات"
 
 #: core/class-wcfm-library.php:417
 msgid "First"
-msgstr ""
+msgstr "الاول"
 
 #: core/class-wcfm-library.php:417
 msgid "Previous"
-msgstr ""
+msgstr "السابق"
 
 #: core/class-wcfm-library.php:417
 msgid "Next"
-msgstr ""
+msgstr "التالي"
 
 #: core/class-wcfm-library.php:417
 msgid "Last"
-msgstr ""
+msgstr "الأخير"
 
 #: core/class-wcfm-non-ajax.php:63
 msgid "Yet to sale your first item ..!!!"
-msgstr ""
+msgstr "نعم لبيع منتجك الاول ..!!"
 
 #: core/class-wcfm-non-ajax.php:105
 msgid "View WCFM settings"
-msgstr ""
+msgstr "مشاهدة اعدادات WCFM "
 
 #: core/class-wcfm-non-ajax.php:122
 msgid "View WCFM documentation"
-msgstr ""
+msgstr "مشاهدة وثائق ال WCFM"
 
 #: core/class-wcfm-non-ajax.php:122
 msgid "Documentation"
-msgstr ""
+msgstr "وثائق"
 
 #: core/class-wcfm-non-ajax.php:124
 msgid "Any WC help feel free to contact us"
-msgstr ""
+msgstr "يمكنك التواصل معنا لاي مساعدة في WC"
 
 #: core/class-wcfm-non-ajax.php:124
 msgid "Contact US"
-msgstr ""
+msgstr "تواصل معنا"
 
 #: core/class-wcfm-non-ajax.php:129
 msgid "Add more power to your WCFM"
-msgstr ""
+msgstr "اضف المزيد من القوة الى WCFM"
 
 #: core/class-wcfm-non-ajax.php:129
 msgid "WCFM Ultimate"
-msgstr ""
+msgstr "WCFM Ultimate"
 
 #: core/class-wcfm-query.php:116
 msgid "Products Dashboard"
-msgstr ""
+msgstr "منتجات لوحة التحكم"
 
 #: core/class-wcfm-query.php:121
 #, php-format
 msgid "Product Manager -%s"
-msgstr ""
+msgstr "مدير المنتجات -%s"
 
 #: core/class-wcfm-query.php:121
 msgid "Product Manager"
-msgstr ""
+msgstr "مدير المنتجات"
 
 #: core/class-wcfm-query.php:124
 msgid "Coupons Dashboard"
-msgstr ""
+msgstr "لوحة التحكم في الكبونات"
 
 #: core/class-wcfm-query.php:129
 #, php-format
 msgid "Coupon Manager -%s"
-msgstr ""
+msgstr "مدير الكبونات -%s"
 
 #: core/class-wcfm-query.php:129
 msgid "Coupon Manager"
@@ -398,222 +400,222 @@ msgstr ""
 
 #: core/class-wcfm-query.php:132
 msgid "Orders Dashboard"
-msgstr ""
+msgstr "لوحة تحكم المنتجات"
 
 #: core/class-wcfm-query.php:136
 #, php-format
 msgid "Order Details #%s"
-msgstr ""
+msgstr "تفاصيل الطلب #%s"
 
 #: core/class-wcfm-query.php:139
 msgid "Bookings Dashboard"
-msgstr ""
+msgstr "لوحة تحكم الحجوزات"
 
 #: core/class-wcfm-query.php:142 views/wcfm-view-wcbookings-dashboard.php:75
 #: views/wcfm-view-wcbookings-dashboard.php:77
 msgid "Bookings List"
-msgstr ""
+msgstr "قائمة الحجوزات"
 
 #: core/class-wcfm-query.php:145
 msgid "Bookings Resources"
-msgstr ""
+msgstr "موارد الحجوزات"
 
 #: core/class-wcfm-query.php:148
 msgid "Bookings Resources Manage"
-msgstr ""
+msgstr "لوحة تحكم موارد الحجوزات"
 
 #: core/class-wcfm-query.php:151
 msgid "Create Bookings"
-msgstr ""
+msgstr "انشاء حجز"
 
 #: core/class-wcfm-query.php:154 views/wcfm-view-wcbookings-dashboard.php:88
 #: views/wcfm-view-wcbookings-dashboard.php:90
 msgid "Bookings Calendar"
-msgstr ""
+msgstr "اجندة الحجوزات"
 
 #: core/class-wcfm-query.php:157
 #, php-format
 msgid "Booking Details #%s"
-msgstr ""
+msgstr "تفاصيل الحجز #%s"
 
 #: core/class-wcfm-query.php:160
 msgid "Reports - Sales by Date"
-msgstr ""
+msgstr "تقرير - المبيعات حسب التاريخ"
 
 #: core/class-wcfm-query.php:163
 msgid "Reports - Sales by Product"
-msgstr ""
+msgstr "تقرير - المبيعات حسب المنتجات"
 
 #: core/class-wcfm-query.php:166
 msgid "Reports - Coupons by Date"
-msgstr ""
+msgstr "تقرير - الكبونات حسب التاريخ"
 
 #: core/class-wcfm-query.php:169
 msgid "Reports - Out of Stock"
-msgstr ""
+msgstr "تقرير - انتهاء الكمية"
 
 #: core/class-wcfm-query.php:172
 msgid "Reports - Low in Stock"
-msgstr ""
+msgstr "تقرير - المخزون قليل"
 
 #: core/class-wcfm-query.php:175
 msgid "Analytics"
-msgstr ""
+msgstr "تحليلات"
 
 #: core/class-wcfm-query.php:178 views/wcfm-view-header-panels.php:47
 #: views/wcfm-view-profile.php:90 views/wcfm-view-wcpvendors-settings.php:68
 msgid "Profile"
-msgstr ""
+msgstr "الملف الشخصي"
 
 #: core/class-wcfm-query.php:184 views/wcfm-view-header-panels.php:43
 #: views/wcfm-view-knowledgebase.php:22
 msgid "Knowledgebase"
-msgstr ""
+msgstr "بنك المعلومات"
 
 #: core/class-wcfm-query.php:187 views/wcfm-view-messages.php:53
 msgid "Message Dashboard"
-msgstr ""
+msgstr "راسئل لوحة التحكم"
 
 #: core/class-wcfm-thirdparty-support.php:76
 msgid "Listings"
-msgstr ""
+msgstr "القوائم"
 
 #: core/class-wcfm-thirdparty-support.php:126
 msgid "Unlimited"
-msgstr ""
+msgstr "غير محدود"
 
 #: core/class-wcfm-thirdparty-support.php:167
 msgid "Rental Product"
-msgstr ""
+msgstr "منتجات للتأجير"
 
 #: core/class-wcfm-thirdparty-support.php:244
 msgid "Set Price Type"
-msgstr ""
+msgstr "حدد نوع السعر"
 
 #: core/class-wcfm-thirdparty-support.php:244
 msgid "General Pricing"
-msgstr ""
+msgstr "السعر العادي"
 
 #: core/class-wcfm-thirdparty-support.php:244
 msgid "Choose a price type - this controls the schema."
-msgstr ""
+msgstr " اختر نوع السعر - هذا يتحكم في الهيكلة "
 
 #: core/class-wcfm-thirdparty-support.php:245
 msgid "Hourly Price"
-msgstr ""
+msgstr "سعر الساعه"
 
 #: core/class-wcfm-thirdparty-support.php:245
 msgid "Hourly price will be applicabe if booking or rental days min 1day"
-msgstr ""
+msgstr "سيتم تطبيق سعر الساعة إذا كانت أيام الحجز أو الإيجار تعني يومًا واحدًا"
 
 #: core/class-wcfm-thirdparty-support.php:245
 #: core/class-wcfm-thirdparty-support.php:246
 msgid "Enter price here"
-msgstr ""
+msgstr "ادخل السعر هنا"
 
 #: core/class-wcfm-thirdparty-support.php:246
 msgid "General Price"
-msgstr ""
+msgstr "السعر العادي"
 
 #: core/class-wcfm-thirdparty-support.php:274
 msgid "Availability"
-msgstr ""
+msgstr "التوفر"
 
 #: core/class-wcfm-thirdparty-support.php:279
 msgid "Product Availabilities"
-msgstr ""
+msgstr "اتاحية المنتج"
 
 #: core/class-wcfm-thirdparty-support.php:279
 msgid "Please select the date range to be disabled for the product."
-msgstr ""
+msgstr "الرجاء تحديد النطاق الزمني الذي سيتم ايقاف المنتج خلاله."
 
 #: core/class-wcfm-thirdparty-support.php:280
 msgid "Custom Date"
-msgstr ""
+msgstr "تاريخ مخصص"
 
 #: core/class-wcfm-thirdparty-support.php:281 views/wcfm-view-messages.php:130
 #: views/wcfm-view-messages.php:140
 msgid "From"
-msgstr ""
+msgstr "من"
 
 #: core/class-wcfm-thirdparty-support.php:282 views/wcfm-view-messages.php:131
 #: views/wcfm-view-messages.php:141
 msgid "To"
-msgstr ""
+msgstr "الى"
 
 #: core/class-wcfm-thirdparty-support.php:283 views/wcfm-view-settings.php:131
 msgid "Bookable"
-msgstr ""
+msgstr "قابل للحجز"
 
 #: core/class-wcfm-thirdparty-support.php:283
 msgid "NO"
-msgstr ""
+msgstr "لا"
 
 #: core/class-wcfm-vendor-support.php:104
 msgid "Commission(%)"
-msgstr ""
+msgstr "عمولة (%)"
 
 #: core/class-wcfm-wcmarketplace.php:104 core/class-wcfm-wcpvendors.php:88
 #: core/class-wcfm-wcvendors.php:129
 msgid "Shop"
-msgstr ""
+msgstr "متجر"
 
 #: core/class-wcfm-wcmarketplace.php:138
 msgid "WCMp"
-msgstr ""
+msgstr "WCMp"
 
 #: core/class-wcfm-wcmarketplace.php:145
 msgid "WCFM"
-msgstr ""
+msgstr "WCFM"
 
 #: core/class-wcfm-wcmarketplace.php:187
 msgid "by Date"
-msgstr ""
+msgstr "من خلال التاريخ"
 
 #: core/class-wcfm.php:271
 msgid "Menu Background Color"
-msgstr ""
+msgstr "لون خلفية القائمة"
 
 #: core/class-wcfm.php:272
 msgid "Menu Item Background"
-msgstr ""
+msgstr "لون خلفية قسم من القائمة"
 
 #: core/class-wcfm.php:273
 msgid "Menu Item Color"
-msgstr ""
+msgstr "لون القسم من القائمة"
 
 #: core/class-wcfm.php:274
 msgid "Menu Active Item Background"
-msgstr ""
+msgstr "لون خلفية القسم الفعال من القائمة"
 
 #: core/class-wcfm.php:275
 msgid "Menu Active Item Color"
-msgstr ""
+msgstr "لون القسم الفعال من القائمة"
 
 #: core/class-wcfm.php:276
 msgid "Primary Background Color"
-msgstr ""
+msgstr "لون الخلفية الرئيسي"
 
 #: core/class-wcfm.php:277
 msgid "Primary Font Color"
-msgstr ""
+msgstr "لون الخط الرئيسي"
 
 #: core/class-wcfm.php:278
 msgid "Secondary Background Color"
-msgstr ""
+msgstr "لون الخلفية الثانوي"
 
 #: core/class-wcfm.php:279
 msgid "Secondary Font Color"
-msgstr ""
+msgstr "لون الخط الثانوي"
 
 #: helpers/class-wcfm-install.php:88
 msgctxt "page_slug"
 msgid "wcfm"
-msgstr ""
+msgstr "wcfm"
 
 #: helpers/class-wcfm-install.php:88
 msgid "WC Frontend Manager"
-msgstr ""
+msgstr "ادارة الواجه الامامية ل WC"
 
 #: helpers/wcfm-core-functions.php:6
 #, php-format
@@ -640,23 +642,23 @@ msgstr ""
 
 #: helpers/wcfm-core-functions.php:323
 msgid "Please insert Product Title before submit."
-msgstr ""
+msgstr "ارجو ادخال عنوان المنتج قبل نشرة"
 
 #: helpers/wcfm-core-functions.php:339
 msgid "Please insert atleast Coupon Title before submit."
-msgstr ""
+msgstr "ارجو ادخال عنون الكبون قبل نشرة"
 
 #: views/wcfm-view-coupons-manage.php:41
 msgid "Manage Coupon"
-msgstr ""
+msgstr "ادارة الكبونات"
 
 #: views/wcfm-view-coupons-manage.php:49
 msgid "Edit Coupon"
-msgstr ""
+msgstr "تعديل الكبون"
 
 #: views/wcfm-view-coupons-manage.php:49
 msgid "Add Coupon"
-msgstr ""
+msgstr "اضافة كبون"
 
 #: views/wcfm-view-coupons-manage.php:59 views/wcfm-view-coupons.php:36
 #: views/wcfm-view-orders-details.php:85 views/wcfm-view-orders.php:45
@@ -664,15 +666,15 @@ msgstr ""
 #: views/wcfm-view-reports-out-of-stock.php:19
 #: views/wcfm-view-reports-sales-by-date.php:61
 msgid "WP Admin View"
-msgstr ""
+msgstr "مشاهدة مدير WP"
 
 #: views/wcfm-view-coupons-manage.php:64 views/wcfm-view-coupons.php:40
 msgid "Add New Coupon"
-msgstr ""
+msgstr "اضافة كبون جديد"
 
 #: views/wcfm-view-coupons-manage.php:76
 msgid "Allow free shipping"
-msgstr ""
+msgstr "السماح للشحن المجاني"
 
 #: views/wcfm-view-coupons-manage.php:76
 msgid ""
@@ -680,37 +682,40 @@ msgid ""
 "must be enabled and be set to require \"a valid free shipping coupon\" (see "
 "the \"Free Shipping Requires\" setting)."
 msgstr ""
+"حدد هذا المربع إذا كانت القسيمة تمنح الشحن المجاني. طريقة الشحن المجاني"
+"يجب تفعيل و ضبط اعدادات الى الزامي \" لشحن المجاني الصحيح للكبون \" "
+"(شاهد ال\" اعدادات الشحن المجاني المطلوبة\"  و الاعدادات)"
 
 #: views/wcfm-view-coupons.php:21
 msgid "Coupons Listing"
-msgstr ""
+msgstr "قائمة الكبونات"
 
 #: views/wcfm-view-coupons.php:32 views/wcfm-view-orders.php:41
 #: views/wcfm-view-products.php:51
 msgid "Screen Manager"
-msgstr ""
+msgstr "مدير الشاشة"
 
 #: views/wcfm-view-dashboard.php:86 views/wcfm-view-settings.php:309
 #: views/wcfm-view-wcmarketplace-dashboard.php:156
 #: views/wcfm-view-wcpvendors-dashboard.php:169
 #: views/wcfm-view-wcvendors-dashboard.php:151
 msgid "Dashboard"
-msgstr ""
+msgstr "لوحة التحكم"
 
 #: views/wcfm-view-dashboard.php:108
 #, php-format
 msgid "<strong>%s</strong><br /> net sales in last 7 days"
-msgstr ""
+msgstr "<strong>%s</strong><br /> مجموع المبيعات في اخر 7 ايام"
 
 #: views/wcfm-view-dashboard.php:121
 #, php-format
 msgid "<strong>%s</strong><br /> paid commission in last 7 days"
-msgstr ""
+msgstr "<strong>%s</strong><br /> العمولات المدفوعة في اخر 7 ايام"
 
 #: views/wcfm-view-dashboard.php:127
 #, php-format
 msgid "<strong>%s items</strong><br /> net sales in last 7 days"
-msgstr ""
+msgstr "<strong>%s items</strong><br /> مجموع المبيعات في اخر 7 ايام"
 
 #: views/wcfm-view-dashboard.php:147
 #: views/wcfm-view-wcmarketplace-dashboard.php:211
@@ -719,8 +724,8 @@ msgstr ""
 #, php-format
 msgid "<strong>%s order</strong><br /> received"
 msgid_plural "<strong>%s orders</strong><br /> received"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "تم استلام <strong>%s طلب</strong><br />"
+msgstr[1] "تم استلا <strong>%s طلب</strong><br />"
 
 #: views/wcfm-view-dashboard.php:153
 #: views/wcfm-view-wcmarketplace-dashboard.php:217
@@ -729,15 +734,15 @@ msgstr[1] ""
 #, php-format
 msgid "<strong>%s order</strong><br /> processing"
 msgid_plural "<strong>%s orders</strong><br /> processing"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "جاري معالجة <strong>%s طلب</strong><br />"
+msgstr[1] "جاري معالجة <strong>%s طلب</strong><br />"
 
 #: views/wcfm-view-dashboard.php:159
 #, php-format
 msgid "<strong>%s order</strong><br /> on-hold"
 msgid_plural "<strong>%s orders</strong><br /> on-hold"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>%s طلب</strong><br /> معلق"
+msgstr[1] "<strong>%s طلب</strong><br /> معلق"
 
 #: views/wcfm-view-dashboard.php:167
 #: views/wcfm-view-wcmarketplace-dashboard.php:231
@@ -746,8 +751,8 @@ msgstr[1] ""
 #, php-format
 msgid "<strong>%s product</strong><br /> low in stock"
 msgid_plural "<strong>%s products</strong><br /> low in stock"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>%s منتج</strong><br /> مخزون منخفض"
+msgstr[1] "<strong>%s منتج</strong><br /> مخزون منخفض"
 
 #: views/wcfm-view-dashboard.php:173
 #: views/wcfm-view-wcmarketplace-dashboard.php:237
@@ -756,42 +761,42 @@ msgstr[1] ""
 #, php-format
 msgid "<strong>%s product</strong><br /> out of stock"
 msgid_plural "<strong>%s products</strong><br /> out of stock"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>%s منتج</strong><br /> غير متوفر"
+msgstr[1] "<strong>%s منتج</strong><br /> غير متوفر"
 
 #: views/wcfm-view-dashboard.php:185
 #: views/wcfm-view-wcmarketplace-dashboard.php:249
 #: views/wcfm-view-wcpvendors-dashboard.php:269
 #: views/wcfm-view-wcvendors-dashboard.php:244
 msgid "Sales by Product"
-msgstr ""
+msgstr "المبيعات بواسطة المنتجات"
 
 #: views/wcfm-view-dashboard.php:196
 #: views/wcfm-view-wcmarketplace-dashboard.php:260
 #: views/wcfm-view-wcpvendors-dashboard.php:280
 #: views/wcfm-view-wcvendors-dashboard.php:255
 msgid "Sales by Date"
-msgstr ""
+msgstr "المبيعات بواسطة التاريخ"
 
 #: views/wcfm-view-header-panels.php:23
 msgid "Notice"
-msgstr ""
+msgstr "ملاحضة"
 
 #: views/wcfm-view-header-panels.php:30 views/wcfm-view-messages.php:95
 msgid "Messages"
-msgstr ""
+msgstr "رسائل"
 
 #: views/wcfm-view-header-panels.php:35
 msgid "Direct Message"
-msgstr ""
+msgstr "رسائل مباشرة"
 
 #: views/wcfm-view-header-panels.php:50 views/wcfm-view-menu.php:83
 msgid "Logout"
-msgstr ""
+msgstr "تسج يل الخروج"
 
 #: views/wcfm-view-knowledgebase.php:28
 msgid "Guidelines for Store Vendors"
-msgstr ""
+msgstr "الدليل لخزن البائعين"
 
 #: views/wcfm-view-knowledgebase.php:47 views/wcfm-view-profile.php:199
 #: views/wcfm-view-settings.php:330
@@ -799,63 +804,63 @@ msgstr ""
 #: views/wcfm-view-wcpvendors-settings.php:141
 #: views/wcfm-view-wcvendors-settings.php:233
 msgid "Save"
-msgstr ""
+msgstr "حفض"
 
 #: views/wcfm-view-messages.php:16
 msgid "All"
-msgstr ""
+msgstr "الكل"
 
 #: views/wcfm-view-messages.php:62
 msgid "To Store Admin"
-msgstr ""
+msgstr "الى مسؤول المتجر"
 
 #: views/wcfm-view-messages.php:62
 msgid "To Store Vendors"
-msgstr ""
+msgstr "الى مسالبائعين"
 
 #: views/wcfm-view-messages.php:76
 msgid "Direct TO:"
-msgstr ""
+msgstr "مباشرة الى:"
 
 #: views/wcfm-view-messages.php:82
 msgid "Sent"
-msgstr ""
+msgstr "ارسال"
 
 #: views/wcfm-view-messages.php:99
 msgid "Only Unread"
-msgstr ""
+msgstr "فقط الغير مقروء"
 
 #: views/wcfm-view-messages.php:100
 msgid "Only Read"
-msgstr ""
+msgstr "فقط المقروء"
 
 #: views/wcfm-view-messages.php:107 views/wcfm-view-messages.php:114
 msgid "Show all"
-msgstr ""
+msgstr "مشاهدة الكل"
 
 #: views/wcfm-view-messages.php:115
 msgid "Only Notice"
-msgstr ""
+msgstr "فقط الملاحضات"
 
 #: views/wcfm-view-messages.php:116
 msgid "Only Messages"
-msgstr ""
+msgstr "فقط الرسائل"
 
 #: views/wcfm-view-messages.php:129 views/wcfm-view-messages.php:139
 msgid "Message"
-msgstr ""
+msgstr "رسائل"
 
 #: views/wcfm-view-orders-details.php:79
 msgid "Order #"
-msgstr ""
+msgstr "طلب #"
 
 #: views/wcfm-view-orders-details.php:94
 msgid "CSV Export"
-msgstr ""
+msgstr "تصدير CVS"
 
 #: views/wcfm-view-orders-details.php:188
 msgid "Customer IP"
-msgstr ""
+msgstr "IP العميل"
 
 #: views/wcfm-view-orders-details.php:350
 msgid "SKU:"
@@ -863,48 +868,48 @@ msgstr ""
 
 #: views/wcfm-view-orders.php:18
 msgid "Orders Listing"
-msgstr ""
+msgstr "قائمة الطلبات"
 
 #: views/wcfm-view-orders.php:24
 msgid "Show all dates"
-msgstr ""
+msgstr "مشاهدة كل التواريخ"
 
 #: views/wcfm-view-products-manage.php:305
 msgid "Simple Product"
-msgstr ""
+msgstr "منتج بسيط"
 
 #: views/wcfm-view-products-manage.php:305
 msgid "Variable Product"
-msgstr ""
+msgstr "منتج متغير"
 
 #: views/wcfm-view-products-manage.php:305
 msgid "Grouped Product"
-msgstr ""
+msgstr "منتجات مجمعه"
 
 #: views/wcfm-view-products-manage.php:305
 msgid "External/Affiliate Product"
-msgstr ""
+msgstr "منتجات خارجية / نضام العمولة"
 
 #: views/wcfm-view-products-manage.php:313
 msgid "Manage Product"
-msgstr ""
+msgstr "ادارة المنتجات"
 
 #: views/wcfm-view-products-manage.php:319
 msgid "Edit Product"
-msgstr ""
+msgstr "تعديل المنتج"
 
 #: views/wcfm-view-products-manage.php:327 views/wcfm-view-products.php:75
 #: views/wcfm-view-products.php:89
 msgid "Views"
-msgstr ""
+msgstr "مشاهدات"
 
 #: views/wcfm-view-products-manage.php:340 views/wcfm-view-products.php:59
 msgid "Add New Product"
-msgstr ""
+msgstr "اضافة منتج جديد"
 
 #: views/wcfm-view-products-manage.php:356
 msgid "Product Title"
-msgstr ""
+msgstr "عنوان المنتج"
 
 #: views/wcfm-view-products-manage.php:361
 msgid "URL"
@@ -912,20 +917,20 @@ msgstr ""
 
 #: views/wcfm-view-products-manage.php:364
 msgid "schedule"
-msgstr ""
+msgstr "جدول"
 
 #: views/wcfm-view-products-manage.php:371
 msgid "Sales scheduling"
-msgstr ""
+msgstr "جدول المبيعات"
 
 #: views/wcfm-view-products-manage.php:381
 #: views/wcfm-view-products-manage.php:381
 msgid "Categories"
-msgstr ""
+msgstr "الاقسام"
 
 #: views/wcfm-view-products-manage.php:438
 msgid "Image Gallery"
-msgstr ""
+msgstr "البوم الصور"
 
 #: views/wcfm-view-products-manage.php:470
 #: views/wcfm-view-products-manage.php:600 views/wcfm-view-products.php:70
@@ -938,43 +943,45 @@ msgid ""
 "SKU refers to a Stock-keeping unit, a unique identifier for each distinct "
 "product and service that can be purchased."
 msgstr ""
+"يشير SKU إلى وحدة حفظ المخزون ، وهو معرّف فريد لكل عنصر مميز"
+"المنتج والخدمة التي يمكن شراؤها."
 
 #: views/wcfm-view-products-manage.php:487
 msgid "Grouped Products"
-msgstr ""
+msgstr "منتجات مجمعه"
 
 #: views/wcfm-view-products-manage.php:492
 msgid "Grouped products"
-msgstr ""
+msgstr "منتجات مجمعه"
 
 #: views/wcfm-view-products-manage.php:492
 msgid "This lets you choose which products are part of this group."
-msgstr ""
+msgstr "يتيح لك هذا اختيار المنتجات التي تشكل جزءًا من هذه المجموعة."
 
 #: views/wcfm-view-products-manage.php:507
 msgid "Dimensions"
-msgstr ""
+msgstr "الابعاد"
 
 #: views/wcfm-view-products-manage.php:527
 msgctxt "Tax status"
 msgid "None"
-msgstr ""
+msgstr "لا شيء"
 
 #: views/wcfm-view-products-manage.php:584
 msgid "Default Form Values:"
-msgstr ""
+msgstr "القيم الافتراضية للطلب"
 
 #: views/wcfm-view-products-manage.php:599
 msgid "Backorders?"
-msgstr ""
+msgstr "طلبات مسبقة ؟"
 
 #: views/wcfm-view-products-manage.php:614 views/wcfm-view-settings.php:147
 msgid "Linked"
-msgstr ""
+msgstr "مرتبط"
 
 #: views/wcfm-view-products-manage.php:619
 msgid "Up-sells"
-msgstr ""
+msgstr "بيع اضافي"
 
 #: views/wcfm-view-products-manage.php:619
 msgid ""
@@ -982,24 +989,29 @@ msgid ""
 "product, for example, products that are more profitable or better quality or "
 "more expensive."
 msgstr ""
+"البيع الإضافي هو المنتجات التي توصي بها بدلاً من المنتجات المعروضة حاليًا"
+"منتج ، على سبيل المثال ، منتجات أكثر ربحية أو ذات جودة أفضل أو"
+"أغلى."
 
 #: views/wcfm-view-products-manage.php:620
 msgid "Cross-sells"
-msgstr ""
+msgstr "عمليات البيع المتقاطعة"
 
 #: views/wcfm-view-products-manage.php:620
 msgid ""
 "Cross-sells are products which you promote in the cart, based on the current "
 "product."
 msgstr ""
+"عمليات البيع التبادلية هي المنتجات التي تروج لها في سلة التسوق ، بناءً على المنتوج الحالي"
+
 
 #: views/wcfm-view-products.php:24
 msgid "Products Listing"
-msgstr ""
+msgstr "قائمة المنتجات"
 
 #: views/wcfm-view-products.php:30
 msgid "Choose Category"
-msgstr ""
+msgstr "اختر قسم"
 
 #: views/wcfm-view-products.php:34
 msgid "Product Type"
@@ -1007,17 +1019,17 @@ msgstr ""
 
 #: views/wcfm-view-profile.php:103
 msgid "Personal"
-msgstr ""
+msgstr "شخصي"
 
 #: views/wcfm-view-profile.php:113
 msgid "About"
-msgstr ""
+msgstr "عن"
 
 #: views/wcfm-view-profile.php:129
 #: views/wcfm-view-wcmarketplace-settings.php:129
 #: views/wcfm-view-wcpvendors-settings.php:113
 msgid "Billing"
-msgstr ""
+msgstr "الفاتورة"
 
 #: views/wcfm-view-profile.php:137 views/wcfm-view-profile.php:152
 #: views/wcfm-view-wcmarketplace-settings.php:106
@@ -1025,7 +1037,7 @@ msgstr ""
 #: views/wcfm-view-wcvendors-settings.php:161
 #: views/wcfm-view-wcvendors-settings.php:209
 msgid "City/Town"
-msgstr ""
+msgstr "مدينة/بلدة"
 
 #: views/wcfm-view-profile.php:139 views/wcfm-view-profile.php:154
 #: views/wcfm-view-wcmarketplace-settings.php:108
@@ -1033,11 +1045,11 @@ msgstr ""
 #: views/wcfm-view-wcvendors-settings.php:163
 #: views/wcfm-view-wcvendors-settings.php:211
 msgid "Postcode/Zip"
-msgstr ""
+msgstr "الرمز البريدي"
 
 #: views/wcfm-view-profile.php:167
 msgid "Social"
-msgstr ""
+msgstr "التواصل الاجتماعي"
 
 #: views/wcfm-view-profile.php:173
 msgid "Twitter"
@@ -1073,7 +1085,7 @@ msgstr ""
 
 #: views/wcfm-view-profile.php:184
 msgid "Social Profile"
-msgstr ""
+msgstr "الملف الاجتماعي"
 
 #: views/wcfm-view-reports-sales-by-date.php:48
 #: views/wcfm-view-reports-wcmarketplace-sales-by-date.php:43
@@ -1082,67 +1094,67 @@ msgstr ""
 #, php-format
 msgctxt "start date and end date"
 msgid "From %s to %s"
-msgstr ""
+msgstr "تاريخ البدء وتاريخ الانتهاء"
 
 #: views/wcfm-view-settings.php:102
 msgid "Vendors Capability"
-msgstr ""
+msgstr "صلاحيات البائعين"
 
 #: views/wcfm-view-settings.php:106
 msgid "Configure what to hide from all vendors"
-msgstr ""
+msgstr "ضبط ما تخفيه من جميع البائعين"
 
 #: views/wcfm-view-settings.php:114
 msgid "Submit Products"
-msgstr ""
+msgstr "منتج بسيط"
 
 #: views/wcfm-view-settings.php:115
 msgid "Publish Products"
-msgstr ""
+msgstr "المنتجات المنشورة"
 
 #: views/wcfm-view-settings.php:116
 msgid "Edit Live Products"
-msgstr ""
+msgstr "تعديل منتج منشور"
 
 #: views/wcfm-view-settings.php:117
 msgid "Delete Products"
-msgstr ""
+msgstr "حذف منتج"
 
 #: views/wcfm-view-settings.php:122
 msgid "Types"
-msgstr ""
+msgstr "الانواع"
 
 #: views/wcfm-view-settings.php:128
 msgid "External / Affiliate"
-msgstr ""
+msgstr "خارجي / نظام العمولة"
 
 #: views/wcfm-view-settings.php:135
 msgid "Subscriptions"
-msgstr ""
+msgstr "اشتراكات"
 
 #: views/wcfm-view-settings.php:136
 msgid "Variable Subscriptions"
-msgstr ""
+msgstr "اشتراكات متغيرة"
 
 #: views/wcfm-view-settings.php:141
 msgid "Panels"
-msgstr ""
+msgstr "لوحة"
 
 #: views/wcfm-view-settings.php:146
 msgid "Taxes"
-msgstr ""
+msgstr "ظرائب"
 
 #: views/wcfm-view-settings.php:149
 msgid "Advanced"
-msgstr ""
+msgstr "متقدم"
 
 #: views/wcfm-view-settings.php:157
 msgid "Miscellaneous"
-msgstr ""
+msgstr "ذو خصائص مختلفة"
 
 #: views/wcfm-view-settings.php:161 views/wcfm-view-settings.php:164
 msgid "Manage Bookings"
-msgstr ""
+msgstr "ادارة الحجوزات"
 
 #: views/wcfm-view-settings.php:164
 msgid "Install WC Bookings to enable this feature."
@@ -1150,7 +1162,7 @@ msgstr ""
 
 #: views/wcfm-view-settings.php:169 views/wcfm-view-settings.php:172
 msgid "Manage Subscriptions"
-msgstr ""
+msgstr "ادارة الاشتراكات"
 
 #: views/wcfm-view-settings.php:172
 msgid "Install WC Subscriptions to enable this feature."
@@ -1158,7 +1170,7 @@ msgstr ""
 
 #: views/wcfm-view-settings.php:177 views/wcfm-view-settings.php:180
 msgid "Associate Listings"
-msgstr ""
+msgstr "قوائم المنتسبين"
 
 #: views/wcfm-view-settings.php:177
 msgid "by WP Job Manager."
@@ -1170,39 +1182,39 @@ msgstr ""
 
 #: views/wcfm-view-settings.php:189
 msgid "Submit Coupons"
-msgstr ""
+msgstr "ارسال الكبونات"
 
 #: views/wcfm-view-settings.php:190
 msgid "Publish Coupons"
-msgstr ""
+msgstr "نشر الكبونات"
 
 #: views/wcfm-view-settings.php:191
 msgid "Edit Live Coupons"
-msgstr ""
+msgstr "تعديل كبون فعال"
 
 #: views/wcfm-view-settings.php:192
 msgid "Delete Coupons"
-msgstr ""
+msgstr "حذف كبون"
 
 #: views/wcfm-view-settings.php:200
 msgid "View Orders"
-msgstr ""
+msgstr "مشاهدة الطلبات"
 
 #: views/wcfm-view-settings.php:201
 msgid "View Order Details"
-msgstr ""
+msgstr "مشاهدة تفاصيل الطلب"
 
 #: views/wcfm-view-settings.php:202
 msgid "View Comments"
-msgstr ""
+msgstr "مشاهدة التعليقات"
 
 #: views/wcfm-view-settings.php:203
 msgid "Submit Comments"
-msgstr ""
+msgstr "ارسال تعليق"
 
 #: views/wcfm-view-settings.php:204
 msgid "Customer Email"
-msgstr ""
+msgstr "بريد العمليل"
 
 #: views/wcfm-view-settings.php:205
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:283
@@ -1217,34 +1229,34 @@ msgstr ""
 
 #: views/wcfm-view-settings.php:222
 msgid "View Reports"
-msgstr ""
+msgstr "مشاهدة التقارير"
 
 #: views/wcfm-view-settings.php:227
 msgid "Access"
-msgstr ""
+msgstr "الدخول"
 
 #: views/wcfm-view-settings.php:232 views/wcfm-view-settings.php:237
 msgid "Vendor Backend Access"
-msgstr ""
+msgstr "دخول البائعين الى الواجهة الخلفية"
 
 #: views/wcfm-view-settings.php:233 views/wcfm-view-settings.php:238
 msgid "Shop Manager Backend Access"
-msgstr ""
+msgstr "دخول مدير المتجر الى الواجهة الخلفية"
 
 #: views/wcfm-view-settings.php:250
 msgid "Advanced Capability"
-msgstr ""
+msgstr "صلاحيات متقدمة"
 
 #: views/wcfm-view-settings.php:266
 msgid "Style"
-msgstr ""
+msgstr "المنضر"
 
 #: views/wcfm-view-settings.php:272
 #: views/wcfm-view-wcmarketplace-settings.php:70
 #: views/wcfm-view-wcpvendors-settings.php:65
 #: views/wcfm-view-wcvendors-settings.php:96
 msgid "Logo"
-msgstr ""
+msgstr "الشعار"
 
 #: views/wcfm-view-settings.php:273
 msgid "Disabled WCFM Menu"
@@ -1300,7 +1312,7 @@ msgstr ""
 
 #: views/wcfm-view-thirdparty-products-manage.php:152
 msgid "Content"
-msgstr ""
+msgstr "المحتوى"
 
 #: views/wcfm-view-thirdparty-products-manage.php:152
 msgid "HTML or Text to display ..."
@@ -1328,131 +1340,134 @@ msgstr ""
 
 #: views/wcfm-view-thirdparty-products-manage.php:202
 msgid "Quantities and Units"
-msgstr ""
+msgstr "الكمية و الوحدة"
 
 #: views/wcfm-view-thirdparty-products-manage.php:207
 msgid "Deactivate Quantity Rules"
-msgstr ""
+msgstr "قواعد تعطيل الكمية"
 
 #: views/wcfm-view-thirdparty-products-manage.php:208
 msgid "Override Quantity Rules"
-msgstr ""
+msgstr "قواعد كمية المنتج"
 
 #: views/wcfm-view-thirdparty-products-manage.php:209
 msgid "Step Value"
-msgstr ""
+msgstr "قيمة المرحلة"
 
 #: views/wcfm-view-thirdparty-products-manage.php:210
 msgid "Minimum Quantity"
-msgstr ""
+msgstr "الكمية الاقل"
 
 #: views/wcfm-view-thirdparty-products-manage.php:211
 msgid "Maximum Quantity"
-msgstr ""
+msgstr "الكمية القصوى"
 
 #: views/wcfm-view-thirdparty-products-manage.php:212
 msgid "Out of Stock Minimum"
-msgstr ""
+msgstr "الحد الادنى للمنتج الغير متوفر"
 
 #: views/wcfm-view-thirdparty-products-manage.php:213
 msgid "Out of Stock Maximum"
-msgstr ""
+msgstr "الحد الاعلى للمنتج الغير متوفر"
 
 #: views/wcfm-view-thirdparty-products-manage.php:214
 msgid "Unit"
-msgstr ""
+msgstr "وحدة"
 
 #: views/wcfm-view-thirdparty-products-manage.php:227
 msgid "Product Fees"
-msgstr ""
+msgstr "الرسوم على المنتج"
 
 #: views/wcfm-view-thirdparty-products-manage.php:232
 msgid "Fee Name"
-msgstr ""
+msgstr "اسم الرسم"
 
 #: views/wcfm-view-thirdparty-products-manage.php:232
 msgid "This will be shown at the checkout description the added fee."
-msgstr ""
+msgstr "سيظهر هذا في وصف الدفع في الرسوم المضافة."
 
 #: views/wcfm-view-thirdparty-products-manage.php:233
 msgid "Fee Amount"
-msgstr ""
+msgstr "قيمة الرسوم"
 
 #: views/wcfm-view-thirdparty-products-manage.php:233
 msgid ""
 "Enter a monetary decimal without any currency symbols or thousand separator. "
 "This field also accepts percentages."
 msgstr ""
+"أدخل رقمًا عشريًا نقديًا بدون أي رموز عملات أو فاصل آلاف."
+"هذا الحقل يقبل النسبة المئوية"
 
 #: views/wcfm-view-thirdparty-products-manage.php:234
 msgid "Multiple Fee by Quantity"
-msgstr ""
+msgstr "ضرب الرسوم في الكمية"
 
 #: views/wcfm-view-thirdparty-products-manage.php:234
 msgid ""
 "Multiply the fee by the quantity of this product that is added to the cart."
 msgstr ""
+"اضرب الرسوم في كمية المنتج التي تمت إضافتها إلى سلة التسوق."
 
 #: views/wcfm-view-thirdparty-products-manage.php:247
 msgid "Bulk Discount"
-msgstr ""
+msgstr "الخصومات المجمعه"
 
 #: views/wcfm-view-thirdparty-products-manage.php:252
 msgid "Bulk Discount enabled"
-msgstr ""
+msgstr "تمكين الخصم في المتعدد"
 
 #: views/wcfm-view-thirdparty-products-manage.php:253
 msgid "Bulk discount special offer text in product description"
-msgstr ""
+msgstr "عرض خصومات المتعددة المميزة في وصف المنتج"
 
 #: views/wcfm-view-thirdparty-products-manage.php:254
 msgid "Discount Rules"
-msgstr ""
+msgstr "قواعد الخصم"
 
 #: views/wcfm-view-thirdparty-products-manage.php:255
 msgid "Quantity (min.)"
-msgstr ""
+msgstr "الكمية (min.)"
 
 #: views/wcfm-view-thirdparty-products-manage.php:256
 msgid "Discount (%)"
-msgstr ""
+msgstr "الخصم (%)"
 
 #: views/wcfm-view-wcbookings-dashboard.php:24
 msgid "Bookings"
-msgstr ""
+msgstr "الحجوزات"
 
 #: views/wcfm-view-wcbookings-dashboard.php:38
 #: views/wcfm-view-wcbookings-dashboard.php:40
 msgid "Create Booking"
-msgstr ""
+msgstr "إنشاء الحجز"
 
 #: views/wcfm-view-wcbookings-dashboard.php:51
 #: views/wcfm-view-wcbookings-dashboard.php:53
 msgid "Manage Resources"
-msgstr ""
+msgstr "إدارة الموارد"
 
 #: views/wcfm-view-wcbookings-dashboard.php:64
 msgid "Create Bookable"
-msgstr ""
+msgstr "إنشاء قابل للحجز"
 
 #: views/wcfm-view-wcmarketplace-dashboard.php:177
 #: views/wcfm-view-wcvendors-dashboard.php:172
 #, php-format
 msgid "<strong>%s</strong><br /> net commission in this month"
-msgstr ""
+msgstr "<strong>%s</strong><br /> العمولة الصافية في هذا الشهر"
 
 #: views/wcfm-view-wcmarketplace-dashboard.php:183
 #: views/wcfm-view-wcvendors-dashboard.php:178
 #, php-format
 msgid "<strong>%s</strong><br /> paid commission in this month"
-msgstr ""
+msgstr "<strong>%s</strong><br /> عمولة مدفوعة في هذا الشهر"
 
 #: views/wcfm-view-wcmarketplace-dashboard.php:191
 #: views/wcfm-view-wcpvendors-dashboard.php:205
 #: views/wcfm-view-wcvendors-dashboard.php:186
 #, php-format
 msgid "<strong>%s items</strong><br /> net sales in this month"
-msgstr ""
+msgstr "<strong>%s منتج</strong><br />صافي المبيعات في هذا الشهر"
 
 #: views/wcfm-view-wcmarketplace-dashboard.php:223
 #: views/wcfm-view-wcpvendors-dashboard.php:242
@@ -1460,18 +1475,18 @@ msgstr ""
 #, php-format
 msgid "<strong>%s product</strong><br /> awaiting fulfillment"
 msgid_plural "<strong>%s products</strong><br /> awaiting fulfillment"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "<strong>%s منتج</strong><br /> في انتظار وفائها"
+msgstr[1] "<strong>%s منتج</strong><br /> في انتظار وفائها"
 
 #: views/wcfm-view-wcmarketplace-settings.php:72
 #: views/wcfm-view-wcvendors-settings.php:100
 msgid "Shop Description"
-msgstr ""
+msgstr "وصف المتجر"
 
 #: views/wcfm-view-wcmarketplace-settings.php:84
 #: views/wcfm-view-wcvendors-settings.php:139
 msgid "Brand"
-msgstr ""
+msgstr "ماركة"
 
 #: views/wcfm-view-wcmarketplace-settings.php:92
 #: views/wcfm-view-wcvendors-settings.php:147
@@ -1480,42 +1495,42 @@ msgstr ""
 
 #: views/wcfm-view-wcmarketplace-settings.php:94
 msgid "Shop Phone"
-msgstr ""
+msgstr "هاتف المتجر"
 
 #: views/wcfm-view-wcmarketplace-settings.php:94
 msgid "Your store phone no."
-msgstr ""
+msgstr "رقم هاتف متجرك"
 
 #: views/wcfm-view-wcmarketplace-settings.php:99
 #: views/wcfm-view-wcvendors-settings.php:154
 msgid "Store Address"
-msgstr ""
+msgstr "عنوان المتجر"
 
 #: views/wcfm-view-wcmarketplace-settings.php:115
 msgid "Advanced Settings"
-msgstr ""
+msgstr "اعدادات متقدمة"
 
 #: views/wcfm-view-wcmarketplace-settings.php:153
 msgid "Policies"
-msgstr ""
+msgstr "السياسات"
 
 #: views/wcfm-view-wcmarketplace-settings.php:160
 msgid "Policy Tab Label"
-msgstr ""
+msgstr "عنوان حقل السياسة"
 
 #: views/wcfm-view-wcmarketplace-settings.php:167
 #: views/wcfm-view-wcvendors-settings.php:197
 msgid "Shipping Policy"
-msgstr ""
+msgstr "سياسة الشحن"
 
 #: views/wcfm-view-wcmarketplace-settings.php:175
 #: views/wcfm-view-wcvendors-settings.php:198
 msgid "Refund Policy"
-msgstr ""
+msgstr "سياسة الارجاع"
 
 #: views/wcfm-view-wcmarketplace-settings.php:183
 msgid "Cancellation Policy"
-msgstr ""
+msgstr "سياسة الالغاء"
 
 #: views/wcfm-view-wcmarketplace-settings.php:198
 #: views/wcfm-view-wcmarketplace-settings.php:210
@@ -1524,42 +1539,42 @@ msgstr ""
 #: views/wcfm-view-wcvendors-settings.php:112
 #: views/wcfm-view-wcvendors-settings.php:124
 msgid "Vacation Mode"
-msgstr ""
+msgstr "خاصية العطلات"
 
 #: views/wcfm-view-wcmarketplace-settings.php:205
 #: views/wcfm-view-wcpvendors-settings.php:94
 #: views/wcfm-view-wcvendors-settings.php:119
 msgid "Enable Vacation Mode"
-msgstr ""
+msgstr "تفعيل خاصية العطلات"
 
 #: views/wcfm-view-wcmarketplace-settings.php:206
 #: views/wcfm-view-wcpvendors-settings.php:95
 #: views/wcfm-view-wcvendors-settings.php:120
 msgid "Vacation Message"
-msgstr ""
+msgstr "ؤسالة العطلة"
 
 #: views/wcfm-view-wcmarketplace-settings.php:225
 msgid "Customer Support"
-msgstr ""
+msgstr "مساعدة العملاء"
 
 #: views/wcfm-view-wcpvendors-dashboard.php:190
 #, php-format
 msgid "<strong>%s</strong><br /> net sales in this month"
-msgstr ""
+msgstr "<strong>%s</strong><br /> المبيعات النهائية"
 
 #: views/wcfm-view-wcpvendors-dashboard.php:196
 #, php-format
 msgid "<strong>%s</strong><br /> commission this month"
-msgstr ""
+msgstr "<strong>%s</strong><br /> عمولة هذا الشهر"
 
 #: views/wcfm-view-wcpvendors-dashboard.php:222
 #, php-format
 msgid "%s top seller this month (sold %d)"
-msgstr ""
+msgstr "%s الأكثر مبيعًا هذا الشهر (بيعه %d)"
 
 #: views/wcfm-view-wcpvendors-settings.php:67
 msgid "Vendor Email"
-msgstr ""
+msgstr "بريد البائع"
 
 #: views/wcfm-view-wcpvendors-settings.php:67
 msgid ""
@@ -1567,19 +1582,22 @@ msgid ""
 "are sent such as new orders and customer inquiries. You may enter more than "
 "one email separating each with a comma."
 msgstr ""
+"أدخل البريد الإلكتروني لهذا البائع. هذا هو البريد الإلكتروني حيث يتم إرسال جميع الإخطارات"
+"يتم إرسالها مثل الطلبات الجديدة واستفسارات العملاء. يمكنك إدخال أكثر من"
+"بريد إلكتروني واحد لكن افصل بين كل منها بفاصلة."
 
 #: views/wcfm-view-wcpvendors-settings.php:68
 msgid "Enter the profile information you would like for customer to see."
-msgstr ""
+msgstr "أدخل معلومات الملف الشخصي التي تريد أن يراها العميل."
 
 #: views/wcfm-view-wcpvendors-settings.php:73
 #: views/wcfm-view-wcpvendors-settings.php:74
 msgid "Timezone"
-msgstr ""
+msgstr "المنطة الزمنية"
 
 #: views/wcfm-view-wcpvendors-settings.php:73
 msgid "Set the local timezone."
-msgstr ""
+msgstr "تعيين المنطقة الزمنية المحلية."
 
 #: views/wcfm-view-wcpvendors-settings.php:124
 #: views/wcfm-view-wcvendors-settings.php:98
@@ -1588,33 +1606,35 @@ msgstr ""
 
 #: views/wcfm-view-wcpvendors-settings.php:124
 msgid "PayPal email account where you will receive your commission."
-msgstr ""
+msgstr "حساب بريد PayPal الإلكتروني حيث ستتلقى عمولتك."
 
 #: views/wcfm-view-wcpvendors-settings.php:125
 msgid ""
 "Default commission you will receive per product sale. Please note product "
 "level commission can override this. Check your product to confirm."
 msgstr ""
+"العمولة الافتراضية التي ستحصل عليها لكل بيع منتج. يرجى ملاحظة المنتج"
+"مستوى العمولة يمكن أن يتجاوز هذا. تحقق من منتجك للتأكيد."
 
 #: views/wcfm-view-wcvendors-settings.php:99
 msgid "Seller Info"
-msgstr ""
+msgstr "معلومات البائع"
 
 #: views/wcfm-view-wcvendors-settings.php:148
 msgid "Store Website / Blog URL"
-msgstr ""
+msgstr "متجر على الويب / عنوان URL للمدونة"
 
 #: views/wcfm-view-wcvendors-settings.php:148
 msgid "Your company/blog URL here."
-msgstr ""
+msgstr "عنوان URL لشركتك / مدونتك ."
 
 #: views/wcfm-view-wcvendors-settings.php:149
 msgid "Store Phone"
-msgstr ""
+msgstr "هاتف المتجر"
 
 #: views/wcfm-view-wcvendors-settings.php:149
 msgid "This is your store contact number."
-msgstr ""
+msgstr "هذا هو رقم الاتصال الخاص بمتجرك."
 
 #: views/wcfm-view-wcvendors-settings.php:170
 #: views/wcfm-view-wcvendors-settings.php:218
@@ -1623,79 +1643,85 @@ msgstr ""
 
 #: views/wcfm-view-wcvendors-settings.php:191
 msgid "Product handling fee"
-msgstr ""
+msgstr "رسوم مناولة المنتج"
 
 #: views/wcfm-view-wcvendors-settings.php:191
 msgid ""
 "The product handling fee, this can be overridden on a per product basis. "
 "Amount (5.00) or Percentage (5%)."
 msgstr ""
+"رسوم معالجة المنتج ، يمكن تجاوزها على أساس كل منتج."
+"المبلغ (5.00) أو النسبة المئوية(5%)."
 
 #: views/wcfm-view-wcvendors-settings.php:192
 msgid "Max Charge Order"
-msgstr ""
+msgstr "الحد الاقصى للطلب"
 
 #: views/wcfm-view-wcvendors-settings.php:192
 msgid "The maximum shipping fee charged for an order."
-msgstr ""
+msgstr "الحد الأقصى لرسوم الشحن المفروضة على أحد الطلبات."
 
 #: views/wcfm-view-wcvendors-settings.php:193
 msgid "Min Charge Order"
-msgstr ""
+msgstr "الحد الأدنى للطلب"
 
 #: views/wcfm-view-wcvendors-settings.php:193
 msgid "The minimum shipping fee charged for an order."
-msgstr ""
+msgstr "الحد الأدنى لرسوم الشحن المفروضة على طلب."
 
 #: views/wcfm-view-wcvendors-settings.php:194
 msgid "Free Shipping Order"
-msgstr ""
+msgstr "طلب الشحن المجاني"
 
 #: views/wcfm-view-wcvendors-settings.php:194
 msgid ""
 "Free shipping for order spends over this amount. This will override the max "
 "shipping charge above."
 msgstr ""
+"الشحن المجاني للطلب يتم إنفاقه فوق هذا المبلغ. سيؤدي هذا إلى تجاوز الحد الأقصى"
+"لتكاليف الشحن اعلاه"
 
 #: views/wcfm-view-wcvendors-settings.php:195
 msgid "Max Charge Product"
-msgstr ""
+msgstr "الحد الافصى للمنتج "
 
 #: views/wcfm-view-wcvendors-settings.php:195
 msgid "The maximum shipping charged per product no matter the quantity."
-msgstr ""
+msgstr "الحد الأقصى للشحن لكل منتج بغض النظر عن الكمية."
 
 #: views/wcfm-view-wcvendors-settings.php:196
 msgid "Free Shipping Product"
-msgstr ""
+msgstr "منتجات الشحن المجاني"
 
 #: views/wcfm-view-wcvendors-settings.php:196
 msgid ""
 "Free shipping if the spend per product is over this amount. This will "
 "override the max shipping charge above."
 msgstr ""
+"شحن مجاني إذا تجاوز الإنفاق لكل منتج هذا المبلغ. هذا سوف"
+"يتجاوز الحد الأقصى لرسوم الشحن أعلاه"
 
 #: views/wcfm-view-wcvendors-settings.php:202
 msgid "From Address"
-msgstr ""
+msgstr "من عنوان"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:194
 #: includes/reports/class-wcvendors-report-sales-by-date.php:158
 #, php-format
 msgid "%s average daily sales"
-msgstr ""
+msgstr "%s معدل المبيعات اليومية"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:198
 #: includes/reports/class-wcvendors-report-sales-by-date.php:162
 #, php-format
 msgid "%s average monthly sales"
-msgstr ""
+msgstr "%s معدل المبيعات الشهرية"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:203
 #: includes/reports/class-wcvendors-report-sales-by-date.php:167
 #, php-format
 msgid "%s total earned commission"
-msgstr ""
+msgstr "%s مجموع العمولات المكتسبة"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:204
 #: includes/reports/class-wcvendors-report-sales-by-date.php:168
@@ -1703,12 +1729,14 @@ msgid ""
 "This is the sum of the earned commission including shipping and taxes if "
 "applicable."
 msgstr ""
+"هذا هو مجموع العمولة المكتسبة بما في ذلك الشحن والضرائب إذا"
+"كانت مفعلة."
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:210
 #: includes/reports/class-wcvendors-report-sales-by-date.php:174
 #, php-format
 msgid "%s total paid commission"
-msgstr ""
+msgstr "%s مجموع العمولات المدفوعه"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:211
 #: includes/reports/class-wcvendors-report-sales-by-date.php:175
@@ -1716,58 +1744,60 @@ msgid ""
 "This is the sum of the commission paid including shipping and taxes if "
 "applicable."
 msgstr ""
+"هذا هو مجموع العمولة المدفوعة بما في ذلك الشحن والضرائب إذا"
+"كانت مفعلة."
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:225
 #: includes/reports/class-wcvendors-report-sales-by-date.php:189
 #, php-format
 msgid "%s orders placed"
-msgstr ""
+msgstr "%s طلب تم طلبه"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:231
 #: includes/reports/class-wcvendors-report-sales-by-date.php:201
 #, php-format
 msgid "%s charged for shipping"
-msgstr ""
+msgstr "%s تم دفعه للشحن"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:442
 #: includes/reports/class-wcvendors-report-sales-by-date.php:426
 msgid "Number of orders"
-msgstr ""
+msgstr "عدد الطلبات"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:450
 #: includes/reports/class-wcvendors-report-sales-by-date.php:442
 msgid "Shipping amount"
-msgstr ""
+msgstr "مبلغ الشحن"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:460
 #: includes/reports/class-wcvendors-report-sales-by-date.php:452
 msgid "Average sales amount"
-msgstr ""
+msgstr "مبلغ معدل البيع"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:470
 msgid "Total Commission Earned Amount"
-msgstr ""
+msgstr "مجموع العمولات المكتسبة"
 
 #: includes/reports/class-wcmarketplace-report-sales-by-date.php:480
 msgid "Total Commission Paid Amount"
-msgstr ""
+msgstr "مجموع العمولات المدفوعه"
 
 #: includes/reports/class-wcvendors-report-sales-by-date.php:195
 #, php-format
 msgid "%s items purchased"
-msgstr ""
+msgstr "%s منتج تم شرائه"
 
 #: includes/reports/class-wcvendors-report-sales-by-date.php:434
 msgid "Number of items sold"
-msgstr ""
+msgstr "عدد المنتجات المباعة"
 
 #: includes/reports/class-wcvendors-report-sales-by-date.php:462
 msgid "Total Earned Commission Amount"
-msgstr ""
+msgstr "مجحموع العمولات المكتسبة"
 
 #: includes/reports/class-wcvendors-report-sales-by-date.php:472
 msgid "Total Paid Commission Amount"
-msgstr ""
+msgstr "مجموع العمولات المدفوعه"
 
 #. Name of the plugin
 msgid "WooCommerce Frontend Manager"
@@ -1786,7 +1816,7 @@ msgstr ""
 
 #. Author of the plugin
 msgid "WC Lovers"
-msgstr ""
+msgstr "محبي WC"
 
 #: controllers/wcfm-controller-orders.php:129
 msgid "Unpublished"
